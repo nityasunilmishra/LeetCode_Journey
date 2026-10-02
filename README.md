@@ -29,3 +29,11 @@ All solutions here are automatically synced directly from LeetCode using [LeetHu
 Feel free to reach out if you want to discuss code, share learning resources, or just say hi!
 
 - **Email:** nityasunilmishra@gmail.com
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+<!---LeetCode Topics End-->
