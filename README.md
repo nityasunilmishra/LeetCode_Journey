@@ -29,3 +29,27 @@ All solutions here are automatically synced directly from LeetCode using [LeetHu
 Feel free to reach out if you want to discuss code, share learning resources, or just say hi!
 
 - **Email:** nityasunilmishra@gmail.com
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0455-assign-cookies/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0455-assign-cookies/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0455-assign-cookies/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0455-assign-cookies/) | Easy |
+<!---LeetCode Topics End-->
