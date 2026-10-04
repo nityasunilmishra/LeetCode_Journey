@@ -36,9 +36,11 @@ Feel free to reach out if you want to discuss code, share learning resources, or
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0136-single-number/) | Easy |
+| [0260-single-number-iii](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0260-single-number-iii/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0136-single-number/) | Easy |
+| [0260-single-number-iii](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0260-single-number-iii/) | Medium |
 <!---LeetCode Topics End-->
