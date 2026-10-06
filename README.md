@@ -42,7 +42,16 @@ Feel free to reach out if you want to discuss code, share learning resources, or
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0051-n-queens/) | Hard |
 | [0136-single-number](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0260-single-number-iii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0051-n-queens/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
