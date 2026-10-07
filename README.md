@@ -35,6 +35,7 @@ Feel free to reach out if you want to discuss code, share learning resources, or
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0260-single-number-iii/) | Medium |
@@ -54,4 +55,8 @@ Feel free to reach out if you want to discuss code, share learning resources, or
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0051-n-queens/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/nityasunilmishra/LeetCode_Journey/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
