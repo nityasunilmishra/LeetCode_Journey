@@ -1,16 +1,16 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ones = 0;
-        int twos = 0;
-        
-        for (int num : nums) {
-       
-            ones = (ones ^ num) & ~twos;
-            
-            twos = (twos ^ num) & ~ones;
+        int ans=0;
+        for(int biti=0;biti<=31;biti++){
+            int cnt=0;
+            for(int i=0;i<nums.size();i++){
+                if(nums[i]&(1<<biti)){
+                    cnt++;
+                }
+            }
+            if(cnt%3==1) ans=ans|(1<<biti);
         }
-        
-        return ones;
+        return ans;
     }
 };
